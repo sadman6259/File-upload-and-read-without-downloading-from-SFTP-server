@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\File_SFTP\File_SFTP\bin\Debug\netcoreapp2.1\File_SFTP.deps.json
+C:\Users\User\source\repos\File_SFTP\File_SFTP\bin\Debug\netcoreapp2.1\File_SFTP.runtimeconfig.json
+C:\Users\User\source\repos\File_SFTP\File_SFTP\bin\Debug\netcoreapp2.1\File_SFTP.runtimeconfig.dev.json
+C:\Users\User\source\repos\File_SFTP\File_SFTP\bin\Debug\netcoreapp2.1\File_SFTP.dll
+C:\Users\User\source\repos\File_SFTP\File_SFTP\bin\Debug\netcoreapp2.1\File_SFTP.pdb
+C:\Users\User\source\repos\File_SFTP\File_SFTP\obj\Debug\netcoreapp2.1\File_SFTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\File_SFTP\File_SFTP\obj\Debug\netcoreapp2.1\File_SFTP.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\File_SFTP\File_SFTP\obj\Debug\netcoreapp2.1\File_SFTP.AssemblyInfo.cs
+C:\Users\User\source\repos\File_SFTP\File_SFTP\obj\Debug\netcoreapp2.1\File_SFTP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\File_SFTP\File_SFTP\obj\Debug\netcoreapp2.1\File_SFTP.dll
+C:\Users\User\source\repos\File_SFTP\File_SFTP\obj\Debug\netcoreapp2.1\File_SFTP.pdb
+C:\Users\User\source\repos\File_SFTP\File_SFTP\obj\Debug\netcoreapp2.1\File_SFTP.genruntimeconfig.cache
+C:\Users\User\source\repos\File_SFTP\File_SFTP\obj\Debug\netcoreapp2.1\File_SFTP.csproj.AssemblyReference.cache
