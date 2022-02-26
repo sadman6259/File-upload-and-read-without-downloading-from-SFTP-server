@@ -21,10 +21,10 @@ namespace File_SFTP
             string sftpfilepath = @"/iTown_test/Picture.png";
             string downloadedpath = @"C:\Picture.jpg";
 
-            string host = "129.126.206.117";
-            string username = "testuser2";
-            string password = "pass@word1";
-            int port = 7250;
+            string host = "enter your host ip";
+            string username = "enter username";
+            string password = "enter password";
+            int port = 44;
 
             if(input == "up")
             
