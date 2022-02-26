@@ -56,7 +56,7 @@ namespace File_SFTP
                 Console.WriteLine("Successfully Uploaded!");
                 Console.ReadLine();
             }
-            public static void DownloadFile( string host, string username, string password, string sftpfilepath, string downloadedpath, int port)
+            public static void ReadFile( string host, string username, string password, string sftpfilepath, string downloadedpath, int port)
             {
                 using (SftpClient client = new SftpClient(host, port, username, password))
                 {
